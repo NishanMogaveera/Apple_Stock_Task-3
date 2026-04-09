@@ -16,13 +16,13 @@
 - ARIMA provides near-future stock price forecasting
 
 ## 🛠 Tools Used
--Python 
--Pandas
--NumPy
--Matplotlib
--Statsmodels
--Scikit-learn
--Jupyter Notebook
+- Python 
+- Pandas
+- NumPy
+- Matplotlib
+- Statsmodels
+- Scikit-learn
+- Jupyter Notebook
 
 ## 📷 Screenshots
 ### Closing Price Trend
