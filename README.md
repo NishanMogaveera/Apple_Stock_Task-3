@@ -24,7 +24,7 @@
 -Scikit-learn
 -Jupyter Notebook
 
-### 📷 Screenshots
+## 📷 Screenshots
 ### Closing Price Trend
 <img width="1022" height="587" alt="Screenshot 2026-04-09 130230" src="https://github.com/user-attachments/assets/5aa8abde-2c13-4506-acc8-9b070cde1edc" />
 
